@@ -1,0 +1,38 @@
+
+body{
+    background-image: linear-gradient(to right, rgb(0, 1, 88) , rgb(0, 3, 151), rgb(0, 4, 248));
+    font-style: oblique;
+    color:aliceblue;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-size: 200%;
+    }
+
+ .sobre{
+        text-align: center;
+        margin-bottom: 8%;
+        font-size: 140%;
+    }
+
+    .formulario{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .titulo-nasa{
+      
+        text-align: center;
+    }
+
+  #resultado{
+      display: flex;
+      color: brown;
+      text-align: center;
+  }
+
+    
